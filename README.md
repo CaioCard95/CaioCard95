@@ -4,7 +4,7 @@
   </a>
 </div>
 
-#
+##
 
 **`🚀 Desenvolvedor FullStack | Ciência da Computação | Front-end & Back-end`**
 
@@ -13,15 +13,16 @@ Apaixonado por tecnologia e inovação, movido por desafios, unindo criatividade
 
 Trabalhando diretamente com clientes, desenvolvendo projetos eficientes para otimizar suas produções, garantindo maior desempenho e inovação..
 
+
 <p align="left">
-    <a href="https://github.com/CaioCard95?tab=repositories&sort=stargazers">
+    <a href="https://github.com/caiocard95?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
             src="https://custom-icon-badges.demolab.com/github/stars/caiocard95?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/CaioCard95?tab=followers">
+    <a href="https://github.com/caiocard95?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
@@ -29,6 +30,8 @@ Trabalhando diretamente com clientes, desenvolvendo projetos eficientes para oti
         />
     </a>
 </p>
+
+
   
 #
 
@@ -130,10 +133,10 @@ Trabalhando diretamente com clientes, desenvolvendo projetos eficientes para oti
   
 </div>
 
-#
 
 <picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/caiocard95/caiocard95/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/caiocard95/caiocard95/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/caiocard95/caiocard95/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CaioCard95/mari4souza/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CaioCard95/CaioCard95/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CaioCard95/CaioCard95/output/github-contribution-grid-snake.svg">
 </picture>
+

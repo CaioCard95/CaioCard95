@@ -34,9 +34,7 @@ Trabalhando diretamente com clientes, desenvolvendo projetos eficientes para oti
 
 <h3 align="left">Connect with me! - Contato </h3>
 
-  <a href="https://www.linkedin.com/in/caio-cardoso-pinto-3b3623233/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="mailto:caiocardosopinto@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/_cai0o/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-cardoso-pinto-3b3623233/)  [![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:caiocardosopinto@gmail.com)  [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_cai0o/)
 
 
 ### 🤖 My Stack - Linguagens e Tecnologias 

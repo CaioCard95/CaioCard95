@@ -8,7 +8,7 @@
 
 **`🚀 Desenvolvedor FullStack | Ciência da Computação | Front-end & Back-end`**
 
-Me chamo Caio Cardoso, tenho 29 anos.
+Olá, me chamo Caio Cardoso, tenho 29 anos.
 Apaixonado por tecnologia e inovação, movido por desafios, unindo criatividade e lógica, curso Ciência da Computação e aprimoro minhas habilidades no DevClub, criando soluções que otimizam processos e melhoram a produtividade.
 
 Trabalhando diretamente com clientes, desenvolvendo projetos eficientes para otimizar suas produções, garantindo maior desempenho e inovação..
@@ -116,7 +116,7 @@ Trabalhando diretamente com clientes, desenvolvendo projetos eficientes para oti
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="140" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=CaioCard95&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
@@ -124,7 +124,7 @@ Trabalhando diretamente com clientes, desenvolvendo projetos eficientes para oti
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
+      height="130" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioCard95&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
